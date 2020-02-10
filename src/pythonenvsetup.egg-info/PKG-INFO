@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: pythonenvsetup
+Version: 0.1.0
+Summary: The hpyermodern Python project setup
+Home-page: https://github.com/pankajshrestha/pythonenvsetup
+Author: Pankaj Shrestha
+Author-email: pankajshrestha@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.7,<4.0

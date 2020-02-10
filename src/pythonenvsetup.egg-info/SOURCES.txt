@@ -1,0 +1,7 @@
+README.md
+setup.py
+src/pythonenvsetup/__init__.py
+src/pythonenvsetup.egg-info/PKG-INFO
+src/pythonenvsetup.egg-info/SOURCES.txt
+src/pythonenvsetup.egg-info/dependency_links.txt
+src/pythonenvsetup.egg-info/top_level.txt
